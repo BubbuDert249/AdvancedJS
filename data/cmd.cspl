@@ -1,0 +1,4 @@
+filefor=js(tags=customizable)
+  cmds{
+  ajs://cmds.x/commands.server/
+}
